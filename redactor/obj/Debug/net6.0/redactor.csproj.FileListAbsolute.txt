@@ -1,0 +1,17 @@
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.AssemblyInfoInputs.cache
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.AssemblyInfo.cs
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\redactor\redactor\bin\Debug\net6.0\redactor.exe
+C:\Users\kudaj\source\repos\redactor\redactor\bin\Debug\net6.0\redactor.deps.json
+C:\Users\kudaj\source\repos\redactor\redactor\bin\Debug\net6.0\redactor.runtimeconfig.json
+C:\Users\kudaj\source\repos\redactor\redactor\bin\Debug\net6.0\redactor.dll
+C:\Users\kudaj\source\repos\redactor\redactor\bin\Debug\net6.0\redactor.pdb
+C:\Users\kudaj\source\repos\redactor\redactor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.csproj.CopyComplete
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.dll
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\refint\redactor.dll
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.pdb
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\redactor.genruntimeconfig.cache
+C:\Users\kudaj\source\repos\redactor\redactor\obj\Debug\net6.0\ref\redactor.dll
